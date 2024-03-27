@@ -41,7 +41,7 @@ $ sudo docker run -d --name my-nginx-cont -p 8080:80 my-nginx-img:v1
         $ sudo docker ps
 
 ### Output
-![alt text](my-nginx-img-cont-list.png)
+![P_ID: N-742](my-nginx-img-cont-list.png)
 
 ### Viewing the nginx website on firefox browser on ubuntu linux machine
 ![Apache Website Dockerization](my-wedding-app.png)
